@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS - Top 5 Kamen Rider Series</string>
+    <string name="novel_name">Nama Series</string>
+    <string name="novel_date">Tanggal Tayang</string>
+    <string name="novel_author">Total Episode</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
